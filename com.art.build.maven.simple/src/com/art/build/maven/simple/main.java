@@ -8,6 +8,8 @@ public class main {
 		System.out.println("Hello Maven");
 		System.out.println("Hello Maven");
 		System.out.println("Hello Maven");
+		System.out.println("Hello Maven");
+		System.out.println("Hello Maven");
 	}
 
 }
